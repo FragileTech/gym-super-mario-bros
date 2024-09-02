@@ -8,7 +8,7 @@ with open('README.md') as README_md:
 
 
 setup(
-    name='gym_super_mario_bros',
+    name='fragile_gym_super_mario_bros',
     version='7.4.0',
     description='Super Mario Bros. for OpenAI Gym',
     long_description=README,
